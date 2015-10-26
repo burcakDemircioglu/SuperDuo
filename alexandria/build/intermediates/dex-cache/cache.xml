@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/pre-dexed/debug/classes-7631d2bd1be8735fc1e6bcae8e6ce202df9ca72e.jar" />
+    </item>
+    <item
+        jar="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/pre-dexed/debug/classes-1b4737b38836a05965932269bbf6bc6b7966a707.jar" />
+    </item>
+    <item
+        jar="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/pre-dexed/debug/classes-c4fa8da28cb203a9d2087357fa9cec0b32970d46.jar" />
+    </item>
+    <item
+        jar="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/pre-dexed/debug/classes-ed75b0dcb5f6234203512203ad7ef540238e7a60.jar" />
+    </item>
+    <item
+        jar="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/pre-dexed/debug/classes-0a45b95475175835eb1cb8c6f4bbe664205e8c3f.jar" />
+    </item>
+    <item
+        jar="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-5a592e2148f5a0abd6e76908b0555d08481bc019.jar" />
+    </item>
+    <item
+        jar="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/pre-dexed/debug/classes-683691bdfdaa1741f94260f576e68bca610c9756.jar" />
+    </item>
+    <item
+        jar="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/pre-dexed/debug/classes-5dd11121900cf1f481e6b7b7caefb85fec8c7a99.jar" />
+    </item>
+    <item
+        jar="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/pre-dexed/debug/classes-1cc49137acd858ec23f8201a37d9058d550b38fd.jar" />
+    </item>
+    <item
+        jar="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/pre-dexed/debug/classes-f7bed8e668a60701050be836a4108e0a56c4a153.jar" />
+    </item>
+    <item
+        jar="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-5235bec6c0fbe4a34be6731ea6efb790bf86f0d1.jar" />
+    </item>
+    <item
+        jar="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/pre-dexed/debug/classes-7e4950936e9e5321eb7358c4bb5814549f8e6a41.jar" />
+    </item>
+    <item
+        jar="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/pre-dexed/debug/classes-378b7146f6773b63bfdfccb30f420295608265ff.jar" />
+    </item>
+    <item
+        jar="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/pre-dexed/debug/classes-cd40675576d56d0f01349494cd1649b4c5390edd.jar" />
+    </item>
+    <item
+        jar="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/pre-dexed/debug/classes-15f201e7db7c71f424a9b7c59eb6a8dbb11dee89.jar" />
+    </item>
+    <item
+        jar="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/pre-dexed/debug/classes-1804c9123348bea384edc5a0b433f7b230bc344e.jar" />
+    </item>
+    <item
+        jar="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/pre-dexed/debug/classes-630bad58cd56a74420f12b9dafae4ad0ad48efcd.jar" />
+    </item>
+    <item
+        jar="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/pre-dexed/debug/classes-badec779a7136dc8e907119476be57ebe2c42106.jar" />
+    </item>
+    <item
+        jar="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/pre-dexed/debug/classes-1af7a11d74470b717627aca43339690aaace026d.jar" />
+    </item>
+    <item
+        jar="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/pre-dexed/debug/classes-911e3c463ab8fb616c4c729468e2fdcc25e11a91.jar" />
+    </item>
+    <item
+        jar="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/pre-dexed/debug/classes-ef70238bf723d1f9528f8cb53597f1bdaa94b7a7.jar" />
+    </item>
+    <item
+        jar="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/pre-dexed/debug/classes-4e044f08e9b245ca1841f30226625452cc38f474.jar" />
+    </item>
+    <item
+        jar="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/pre-dexed/debug/classes-aa4fdeffa1501e4caa374d5140af7dee6e530b16.jar" />
+    </item>
+    <item
+        jar="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/pre-dexed/debug/classes-adeffa5a5d424adca90ac6ac82472ce6b89ebc40.jar" />
+    </item>
+    <item
+        jar="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/pre-dexed/debug/classes-6ca167b5b529e812deb20642b654fc9cc0cf60ba.jar" />
+    </item>
+    <item
+        jar="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/pre-dexed/debug/classes-65dadea9f8a4e02487b8f5f6d2c6d46fcb16ea90.jar" />
+    </item>
+    <item
+        jar="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/pre-dexed/debug/classes-0a9419a6848a0519ba3f692205a3f14c4d7c070f.jar" />
+    </item>
+    <item
+        jar="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="82054090e487d78e163a988557db62d809fa9b95">
+        <dex dex="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/pre-dexed/debug/classes-a06450f1347894002011afb15c61fe52ecae709c.jar" />
+    </item>
+    <item
+        jar="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/jacoco/jacocoagent.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="05d4f9e6f36f58a60dc65a4b1af30ee76201a530">
+        <dex dex="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/pre-dexed/debug/jacocoagent-5d7a756000730084551d964d290cf0447fb6be5c.jar" />
+    </item>
+    <item
+        jar="/Users/burcakdemircioglu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/burcakdemircioglu/AndroidStudioProjects/alexandria/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-535092cbbd2c34b74dcdc9e62857a94962c65199.jar" />
+    </item>
+
+</items>
